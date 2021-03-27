@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tripapp-adaea": {
+      "hosting": {
+        "WebApp": [
+          "tripapp-adaea"
+        ]
+      }
+    }
+  }
+}
